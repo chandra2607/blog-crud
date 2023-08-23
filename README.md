@@ -1,21 +1,21 @@
-  # practicing CRUD operations using NuxtJS and using graphql api's using Wordpress in backend
-![](https://github.com/blog-crud/chrome_vBvU1jCv6s.gif)
+  # Practicing CRUD operations with NuxtJS and utilizing GraphQL APIs through a WordPress backend
+![](https://github.com/chandra2607/blog-crud/blob/main/chrome_vBvU1jCv6s.gif)
 
-This is mini SPA demo webapp created using vue3,tailwind,wp-graphql.i have tried to implement the following functionalites which is not optimial but are good for learning purposes
-1. listing out blogs and paginations
-2. authentication using jwt token
-3. filter posts by date and title text
-4. add a new post
-5. create a new post
-6. added random quote generator in one of tab
+This is a mini SPA demo web app created using Vue 3, Tailwind CSS, and WP-GraphQL. I have attempted to implement several functionalities that, while not optimal, serve well for learning purposes:
+1. Listing blogs with pagination.
+2. Authentication using JWT tokens.
+3. Filtering posts by date and title text.
+4. Adding a new post.
+5. Creating a new post.
+6. Including a random quote generator within one of the tabs.
 
-the above webapp can be helpful in learning following things
-1. tailwind css
-2. grids,flexbox in css
-3. making api calls using axios
-4. state management in Vue3 using ref 
-6. graphql queries and mutations
-7. paginations in graphql
-8. emiting events and props handling in vue3
+This web app can aid in learning the following concepts:
+1. Tailwind CSS.
+2. Grids and Flexbox in CSS.
+3. Making API calls using Axios.
+4. State management in Vue 3 using ref.
+5. GraphQL queries and mutations.
+6. Pagination in GraphQL.
+7. Emitting events and handling props in Vue 3.
 
 [design inspiration](https://cdn.dribbble.com/userupload/7699696/file/original-d3241af2762427c282d06ff26c1f4065.jpg?resize=1024x768)
